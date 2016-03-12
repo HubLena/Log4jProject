@@ -5,7 +5,7 @@
  * Instructor: Jean-francois Nepton<br>
  * Created: Feb 10, 2016
  */
-package com.sqa.jf.util.helper;
+package com.sqa.gf.util.helper;
 
 import java.lang.reflect.*;
 import java.util.*;
